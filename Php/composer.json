@@ -1,0 +1,17 @@
+{
+    "name": "joseahernandez/fizzbuzz",
+    "authors": [
+        {
+            "name": "Jose Hernandez"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3",
+        "phpunit/phpunit": "^5.1"
+    },
+    "autoload": {
+        "psr-0": {
+            "joseahernandez\\fizzbuzz\\": "src/"
+        }
+    }
+}
